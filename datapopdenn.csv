@@ -1,51 +1,51 @@
-index,State,Pop. Den
-1,New Jersey,"1,283.4 per mi²"
-2,Rhode Island,"1,074.3 per mi²"
-3,Massachusetts,919.82 per mi²
-4,Connecticut,746.7 per mi²
-5,Maryland,648.84 per mi²
-6,Delaware,522.09 per mi²
-7,New York,433.9 per mi²
-8,Florida,416.96 per mi²
-9,Pennsylvania,292.62 per mi²
-10,Ohio,290.7 per mi²
-11,California,258.21 per mi²
-12,Hawaii,231.01 per mi²
-13,Illinois,230.68 per mi²
-14,Virginia,223.36 per mi²
-15,North Carolina,220.3 per mi²
-16,Indiana,191.93 per mi²
-17,Georgia,191.59 per mi²
-18,Michigan,179.26 per mi²
-19,South Carolina,175.19 per mi²
-20,Tennessee,171.71 per mi²
-21,New Hampshire,155.91 per mi²
-22,Washington,120.37 per mi²
-23,Texas,116.16 per mi²
-24,Kentucky,115.38 per mi²
-25,Wisconsin,109.97 per mi²
-26,Louisiana,108.67 per mi²
-27,Alabama,100.65 per mi²
-28,Missouri,90.26 per mi²
-29,West Virginia,73.88 per mi²
-30,Minnesota,73.18 per mi²
-31,Vermont,70.34 per mi²
-32,Arizona,64.96 per mi²
-33,Mississippi,63.07 per mi²
-34,Oklahoma,58.63 per mi²
-35,Arkansas,58.43 per mi²
-36,Iowa,57.89 per mi²
-37,Colorado,57.86 per mi²
-38,Oregon,45.41 per mi²
-39,Maine,44.5 per mi²
-40,Utah,41.67 per mi²
-41,Kansas,36.24 per mi²
-42,Nevada,29.38 per mi²
-43,Nebraska,26.06 per mi²
-44,Idaho,23.24 per mi²
-45,New Mexico,17.6 per mi²
-46,South Dakota,11.98 per mi²
-47,North Dakota,11.75 per mi²
-48,Montana,7.64 per mi²
-49,Wyoming,5.98 per mi²
-50,Alaska,1.3 per mi²
+State,Pop. Den
+New Jersey,"1,283.4 per mi²"
+Rhode Island,"1,074.3 per mi²"
+Massachusetts,919.82 per mi²
+Connecticut,746.7 per mi²
+Maryland,648.84 per mi²
+Delaware,522.09 per mi²
+New York,433.9 per mi²
+Florida,416.96 per mi²
+Pennsylvania,292.62 per mi²
+Ohio,290.7 per mi²
+California,258.21 per mi²
+Hawaii,231.01 per mi²
+Illinois,230.68 per mi²
+Virginia,223.36 per mi²
+North Carolina,220.3 per mi²
+Indiana,191.93 per mi²
+Georgia,191.59 per mi²
+Michigan,179.26 per mi²
+South Carolina,175.19 per mi²
+Tennessee,171.71 per mi²
+New Hampshire,155.91 per mi²
+Washington,120.37 per mi²
+Texas,116.16 per mi²
+Kentucky,115.38 per mi²
+Wisconsin,109.97 per mi²
+Louisiana,108.67 per mi²
+Alabama,100.65 per mi²
+Missouri,90.26 per mi²
+West Virginia,73.88 per mi²
+Minnesota,73.18 per mi²
+Vermont,70.34 per mi²
+Arizona,64.96 per mi²
+Mississippi,63.07 per mi²
+Oklahoma,58.63 per mi²
+Arkansas,58.43 per mi²
+Iowa,57.89 per mi²
+Colorado,57.86 per mi²
+Oregon,45.41 per mi²
+Maine,44.5 per mi²
+Utah,41.67 per mi²
+Kansas,36.24 per mi²
+Nevada,29.38 per mi²
+Nebraska,26.06 per mi²
+Idaho,23.24 per mi²
+New Mexico,17.6 per mi²
+South Dakota,11.98 per mi²
+North Dakota,11.75 per mi²
+Montana,7.64 per mi²
+Wyoming,5.98 per mi²
+Alaska,1.3 per mi²
